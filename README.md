@@ -1,2 +1,3 @@
 # GTProject
-GTProject
+
+Git DEevOps guide
